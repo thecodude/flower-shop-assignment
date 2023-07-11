@@ -318,3 +318,9 @@ footer .footer__desc {
     max-width: 250px;
     margin: 0 auto 30px;
 }
+
+@media( min-width: 1500px ) {
+    .container {
+        max-width: 1440px;
+    }
+}
