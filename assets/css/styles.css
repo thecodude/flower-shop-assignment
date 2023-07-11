@@ -38,7 +38,7 @@ img {
 
 /* Header */
 .header__wrapper {
-    padding: 150px 0;
+    padding: 170px 0;
     overflow: hidden;
     background: rgba(229, 84, 115, 0.10);
 }
@@ -51,12 +51,12 @@ img {
 
 .header__img img {
     max-height: 800px;
-    margin-bottom: -193px;
+    margin-bottom: -177px;
 }
 
 .header__left__content {
     width: 60%;
-    padding-right: 78px;
+    padding-right: 198px;
 }
 
 .header__img {
@@ -67,10 +67,11 @@ img {
     font-size: 80px;
     font-weight: 900;
     line-height: normal;
+    margin-bottom: 40px;
 }
 
 p.header__content {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .btn {
