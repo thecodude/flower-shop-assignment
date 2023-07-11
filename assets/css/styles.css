@@ -84,7 +84,13 @@ p.header__content {
     text-decoration: none;
     min-width: 155px;
     text-align: center;
+    transition: 0.3s;
 }
+
+.btn:hover {
+    background: #cf4563;
+}
+
 
 /* Featured Flowers */
 
@@ -250,6 +256,7 @@ p.header__content {
     font-size: 20px;
     font-weight: 600;
     color: #fff;
+    cursor: pointer;
 }
 
 /* Testimonial */
